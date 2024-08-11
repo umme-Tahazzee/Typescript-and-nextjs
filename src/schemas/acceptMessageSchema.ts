@@ -3,3 +3,4 @@ export const AcceptMessageSchema = z.object({
     acceptMessage: z.boolean(),
     
 });
+
